@@ -45,7 +45,7 @@ export default function AccountInfo({
             </figure>
           </div>
           <div className="mt-10 mx-[21px] flex flex-row items-center justify-between text-[#1D2329] text-base font-semibold tracking-tight leading-[20.16px]">
-            <p className="">victorola.eth</p>
+            <p className="">Badmus Qudus Ayomide</p>
             <p className="px-[10px] py-[8px] border-[1.14px] rounded-[8px] border-solid border-[#F1F1F1]">
               God bless you Immediately
             </p>
@@ -78,7 +78,7 @@ export default function AccountInfo({
             onClick={() => handleCopy("9075789680")}
             className="flex flex-row items-center cursor-pointer text-[#1D2329] font-medium text-[16px] leading-[24px]"
           >
-            9075789680{" "}
+            9130428547{" "}
             <span>
               <IoCopyOutline />
             </span>
@@ -90,7 +90,7 @@ export default function AccountInfo({
           </p>
           <p className="text-[#1D2329] font-medium  text-[16px]  leading-[24px] ">
             {" "}
-            Victor Olatunji
+            Badmus Qudus Ayomide
           </p>
         </div>
         <div className="max-w-[450px] mx-auto flex w-full gap-5 justify-between">

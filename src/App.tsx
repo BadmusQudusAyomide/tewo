@@ -87,26 +87,26 @@ function App() {
 
       <div className="mx-auto text-center block mt-5 text-gray-400">
         <p className="">
-          iDEa overtaken from &nbsp;
+          Code  overtaken from &nbsp;
           <span>
             <a
               target="_blank"
               rel="noreferrer noopener"
               className="text-black"
-              href="https://x.com/dtechoracle"
+              href="https://x.com/heyvickyjay"
             >
-              Dtechoracle⚡️
+              Vickyjay⚡️
             </a>
           </span>
         </p>
         <p className="">
-          built out of desperation and sapa by{" "}
+          Copied out of desperation and sapa by{" "}
           <span>
             <a
               target="_blank"
               rel="noreferrer noopener"
               className="text-black"
-              href="https://x.com/heyVickyJay"
+              href="https://www.linkedin.com/in/qudus-ayomide-badmus/"
             >
               Me,
             </a>
